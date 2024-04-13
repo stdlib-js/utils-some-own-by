@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-some-own-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test whether some `own` properties of a provided object satisfy a predicate function for at least `n` properties.",
   "license": "Apache-2.0",
   "author": {
