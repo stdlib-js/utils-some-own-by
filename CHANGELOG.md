@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`32deb11`](https://github.com/stdlib-js/stdlib/commit/32deb11c6a2453748d8db9554b6bb3fdb73a077f) - **docs:** update related packages sections [(#3976)](https://github.com/stdlib-js/stdlib/pull/3976) _(by stdlib-bot)_
 -   [`f477e26`](https://github.com/stdlib-js/stdlib/commit/f477e26a03e5e365f2e7c4035959a2fb789698a3) - **chore:** move functions to parent scope _(by Philipp Burckhardt)_
 -   [`6e9f42e`](https://github.com/stdlib-js/stdlib/commit/6e9f42e4c912485d9896eaa16c88b70fd3688e97) - **docs:** harmonize list formatting in repl.txt and ensure starting newline _(by Philipp Burckhardt)_
 -   [`cadb613`](https://github.com/stdlib-js/stdlib/commit/cadb6131d6ce50338d11757e88e8a910a0367983) - **chore:** update argument documentation styling _(by Philipp Burckhardt)_
@@ -69,7 +70,7 @@ No changes reported for this release.
 <details>
 
 -   [`d40dbaf`](https://github.com/stdlib-js/stdlib/commit/d40dbafc25e3e10c8fa83f5b4203db97c289823c) - **chore:** update package meta data [(#1812)](https://github.com/stdlib-js/stdlib/pull/1812) _(by stdlib-bot)_
--   [`80fdd70`](https://github.com/stdlib-js/stdlib/commit/80fdd7073fb324751656cadfc3ed190045fc1583) - **feat:** add `utils/some-own-by` _(by Rutam, Pranav, Philipp Burckhardt)_
+-   [`80fdd70`](https://github.com/stdlib-js/stdlib/commit/80fdd7073fb324751656cadfc3ed190045fc1583) - **feat:** add `utils/some-own-by` _(by Rutam Kathale, Pranav, Philipp Burckhardt)_
 
 </details>
 
@@ -85,7 +86,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 -   Philipp Burckhardt
 -   Pranav Goswami
--   Rutam
+-   Rutam Kathale
 
 </section>
 
