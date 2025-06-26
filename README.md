@@ -253,7 +253,7 @@ bool = someOwnBy( obj, 5, threshold );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/utils-any-own-by`][@stdlib/utils/any-own-by]</span><span class="delimiter">: </span><span class="description">test whether whether any 'own' property of a provided object satisfies a predicate function.</span>
--   <span class="package-name">[`@stdlib/utils-every-own-by`][@stdlib/utils/every-own-by]</span><span class="delimiter">: </span><span class="description">test whether all own properties of an object pass a test implemented by a predicate function.</span>
+-   <span class="package-name">[`@stdlib/object-every-own-by`][@stdlib/object/every-own-by]</span><span class="delimiter">: </span><span class="description">test whether all own properties of an object pass a test implemented by a predicate function.</span>
 -   <span class="package-name">[`@stdlib/utils-some-by`][@stdlib/utils/some-by]</span><span class="delimiter">: </span><span class="description">test whether a collection contains at least `n` elements which pass a test implemented by a predicate function.</span>
 -   <span class="package-name">[`@stdlib/utils-some-in-by`][@stdlib/utils/some-in-by]</span><span class="delimiter">: </span><span class="description">test whether an object contains at least n properties (own and inherited) which pass a test implemented by a predicate function.</span>
 
@@ -339,7 +339,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/utils/any-own-by]: https://github.com/stdlib-js/utils-any-own-by
 
-[@stdlib/utils/every-own-by]: https://github.com/stdlib-js/utils-every-own-by
+[@stdlib/object/every-own-by]: https://github.com/stdlib-js/object-every-own-by
 
 [@stdlib/utils/some-by]: https://github.com/stdlib-js/utils-some-by
 
